@@ -1,0 +1,22 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "comma-dangle": [
+      "error",
+      "never"
+    ],
+    "semi": [
+      "error",
+      "never"
+    ],
+    "sort-imports": "off",
+    "sort-keys": "error",
+    "quotes": [
+      "error",
+      "double"
+    ]
+  }
+}
